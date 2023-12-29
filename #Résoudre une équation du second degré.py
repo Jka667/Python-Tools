@@ -1,4 +1,4 @@
-#Résoudre une équation du second degré
+#Résolution d'equation quadratique en python
 a =int(input("Veuillez saisir le nombre representant a dans l'equation: "))
 b= int(input("Veuillez saisir le nombre representant b dans l'equation: "))
 c=int(input("Veuillez saisir le nombre representant c dans l'equation: "))
